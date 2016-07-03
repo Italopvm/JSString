@@ -9,12 +9,13 @@ function anyWord(){
 
 
 
-	alert("This is your word: " + word + " " +
-		  "This is the length of your word: " + length + " " +
-		  "This is the third character of your word: " + third + " " +
-		  "lowercase: " + lowercase + " " + "uppercase: " + uppercase +
-		  " " + "I like to practice with your " + word + 
-		  "This is the substring of the word " + sub);
+	alert("This is your word: " + word +
+		  "\n This is the length of your word: " + length +
+		  "\n This is the third character of your word: " + third +
+		  "\n lowercase: " + lowercase + 
+		  "\n uppercase: " + uppercase +
+		  "\n I like to practice with your " + word +
+		  "\n This is the substring of the word " + sub);
 
 
 }
